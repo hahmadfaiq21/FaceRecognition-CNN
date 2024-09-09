@@ -20,3 +20,10 @@ Link dataset: https://vis-www.cs.umass.edu/lfw/
 </p>
 
 ## Result
+<div align="center">
+  
+| Authorized Access | Unauthorized Access |
+|----------|----------|
+| Data 1   | Data 2   |
+
+</div>
