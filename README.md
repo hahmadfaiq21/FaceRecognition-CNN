@@ -24,6 +24,6 @@ Link dataset: https://vis-www.cs.umass.edu/lfw/
   
 | Authorized Access | Unauthorized Access |
 |----------|----------|
-| Data 1   | Data 2   |
+| ![Detect Face](https://github.com/user-attachments/assets/f4fd2735-acf9-422f-9e00-f05bb262e450) | ![Detect Face2](https://github.com/user-attachments/assets/270226cb-7f39-4d8e-8c4e-d00e1a6431fc) |
 
 </div>
