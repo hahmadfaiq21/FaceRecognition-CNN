@@ -24,7 +24,7 @@ Link dataset: https://vis-www.cs.umass.edu/lfw/
   <img src="https://github.com/user-attachments/assets/4677dd4f-fb7d-4b34-b9b9-ec095f8cde36" width="720">
 </p>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/c67ed7e6-275a-4717-a4b4-9545f6caf2de" width="320">
+<img src="https://github.com/user-attachments/assets/c67ed7e6-275a-4717-a4b4-9545f6caf2de">
 </p>
 
 ### Pre-Processing Dataset using Augmentation Data
