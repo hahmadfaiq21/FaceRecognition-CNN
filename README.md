@@ -5,7 +5,7 @@
 This project aims to develop a robust face recognition system using Convolutional Neural Networks (CNN). The model leverages deep learning techniques to accurately identify and verify individuals based on their facial features. The CNN architecture is designed to extract and learn intricate patterns from facial images, making it highly effective for face recognition tasks. <br>
 <br>
 Dataset: Labeled Face in the Wild (LFW) by University of Massachusetts. <br>
-Link dataset: https://vis-www.cs.umass.edu/lfw/
+Link: https://vis-www.cs.umass.edu/lfw/
 
 ### Key Features:
 **1. Data Preprocessing**: The dataset consists of labeled facial images, which are preprocessed to enhance quality and consistency. Techniques such as normalization, resizing, and augmentation are applied to improve model performance. <br>
